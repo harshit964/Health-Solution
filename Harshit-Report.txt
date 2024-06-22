@@ -1,0 +1,8 @@
+Day 1:
+#  Give the solution for the project: 
+1. An AI powered website which is one stop solution to every medical related problems.
+2. In which we few question related to issue and user rate them in 1-10 scale the we can accordindingly 
+    give precautions and diet to follow verified by Doctors.
+3. User and Doctors are login in website and user can make appointments with doctor via video call.
+4. There is a page about learning section in which we give user a educational video of encountering different medical issue.
+# Make Github repo and add others as contributors.
