@@ -1,0 +1,29 @@
+DAY 1: 21/06/2024 
+
+AI-Powered Health and Wellness Advisor Web App
+Solution Overview: An AI-powered web app that provides personalized health advice, nutritional guidance, and activity tracking. The app will give users precautionary tips before engaging in various tasks, recommend diet plans based on their health data, and track physical activity to offer insights for a healthier lifestyle.
+
+NOTE: WE WILL IMPLEMENT THESE FEATURES IN THE DOCTOR MINI PROJECT AS SUGGESTED BY RUTURAJ
+
+Precautionary Advice System:
+•	Task-Specific Precautions: Users can input upcoming activities (e.g., hiking, running, swimming), and the app provides tailored precautionary advice (e.g., apply sunscreen, hydrate, warm-up exercises).
+
+OpenWeatherMap + OpenAI API
+
+
+Nutrition Guidance:
+•	Personalized Diet Plans: Users receive customized diet plans based on their health goals, dietary preferences, allergies, and activity levels.
+•	Nutritional Analysis: Users can log their meals to get detailed nutritional breakdowns and suggestions for balanced nutrition.
+Nutritionix API  + Training models
+
+Physical Activity Tracking:
+•	Integration with Wearables: Sync data from popular fitness trackers (e.g., Fitbit, Apple Watch) to monitor physical activity, heart rate, and sleep patterns.
+•	Activity Log: Users can manually log their activities if they don’t use a wearable.
+•	Progress Reports: The app generates reports on users' physical activity trends and achievements, providing insights for improvement.
+Fitbit Web API
+
+AI-Driven Insights and Recommendations:
+•	Health Tips: Continuous AI-driven tips for maintaining and improving health based on users' data.
+•	Alerts and Reminders: Reminders for activities, hydration, meal times, and health check-ups.
+
+
